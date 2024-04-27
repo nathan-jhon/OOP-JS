@@ -3,7 +3,7 @@
 # OOP with JavaScript 🚀
 
 
-## Introduction
+## Intro
 Welcome to our guide on Object-Oriented Programming (OOP) in JavaScript!
 
 ## What is OOP? 🎨
