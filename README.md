@@ -7,6 +7,8 @@
 Welcome to our guide on Object-Oriented Programming (OOP) in JavaScript!
 
 ## What is OOP? 🎨
+
+
 OOP organizes code into objects for better structure and reusability.
 
 ## Why JavaScript for OOP? 💡
